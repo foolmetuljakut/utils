@@ -1,0 +1,23 @@
+{
+    "mainapp": {
+        "target": {
+            "name": "ctf\/ctf",
+            "opts": "-fdiagnostics-color=always -Werror -g"
+        },
+        "files": [
+            {
+                "name": "ctf\/ctf.cpp",
+                "hash": "627876fa251de9189ab0e2bd495415f6"
+            },
+            {
+                "name": "ctf\/logger.hpp",
+                "hash": "bc32fd77113f1071c6b081ebc294c36f"
+            },
+            {
+                "name": "ctf\/logger.cpp",
+                "hash": "48c9a2c421b7f7d88945a30b17656d25"
+            }
+        ]
+    },
+    "projects": ""
+}
