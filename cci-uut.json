@@ -1,0 +1,19 @@
+{
+    "mainapp": {
+        "target": {
+            "name": "cci-uut",
+            "opts": "-fdiagnostics-color=always -Werror -g -lm"
+        },
+        "files": [
+            {
+                "name": "cci.cpp",
+                "hash": "c5fff6299720f2fa791b2566f04b54d2"
+            },
+            {
+                "name": "cci.hpp",
+                "hash": "1bfa2fcfaef67357d1e2a720afe172e7"
+            }
+        ]
+    },
+    "projects": ""
+}

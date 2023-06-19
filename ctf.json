@@ -1,7 +1,7 @@
 {
     "mainapp": {
         "target": {
-            "name": "ctf\/ctf",
+            "name": "ctf-uut",
             "opts": "-fdiagnostics-color=always -Werror -g"
         },
         "files": [
