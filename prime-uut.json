@@ -1,0 +1,15 @@
+{
+    "mainapp": {
+        "target": {
+            "name": "prime-uut",
+            "opts": "-fdiagnostics-color=always -Werror -g"
+        },
+        "files": [
+            {
+                "name": "prime.cpp",
+                "hash": "35c57efe7414f039d1dbfec910690b9f"
+            }
+        ]
+    },
+    "projects": ""
+}
